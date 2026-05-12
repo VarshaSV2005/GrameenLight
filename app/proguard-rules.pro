@@ -1,0 +1,2 @@
+-keep class com.grameenlight.app.model.** { *; }
+-dontwarn com.google.android.gms.**
